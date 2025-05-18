@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b8k2eecdk186u"
+path.s3tc="res://.godot/imported/- Uniform • 59_ • 4k - Adaptive • 100_ • 4k_3a3ed283cf24e20f2dcdc7fbda0ef014.jpg-13ec1e8b55f595c1a99e0f4d03f738bc.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "b7107e89f7beb5e172a046a452b249a5"
+}
+
+[deps]
+
+source_file="res://- Uniform • 59_ • 4k - Adaptive • 100_ • 4k_3a3ed283cf24e20f2dcdc7fbda0ef014.jpg"
+dest_files=["res://.godot/imported/- Uniform • 59_ • 4k - Adaptive • 100_ • 4k_3a3ed283cf24e20f2dcdc7fbda0ef014.jpg-13ec1e8b55f595c1a99e0f4d03f738bc.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=1
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal="res://- Uniform • 59_ • 4k - Adaptive • 100_ • 4k_3a3ed283cf24e20f2dcdc7fbda0ef014.jpg"
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

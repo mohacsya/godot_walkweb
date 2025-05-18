@@ -1,0 +1,4 @@
+newmtl Material
+map_Kd textures/b9b8a132c79d4a2d42f8aa618fb03ba1.jpg
+norm textures/3a3ed283cf24e20f2dcdc7fbda0ef014.jpg
+Pr 1.00
